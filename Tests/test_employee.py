@@ -1,5 +1,5 @@
-from Codes.Employee import Employee
-from Codes.Developer import Developer
+from Codes import Employee
+from Codes import Developer
 
 emp_1 = Employee('Adam', 'Trip', 1000)
 dev_1 = Developer('ch', 'trip', 2000, 'python')
