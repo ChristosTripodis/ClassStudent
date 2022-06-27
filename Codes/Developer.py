@@ -1,4 +1,4 @@
-from Codes.Employee import Employee
+from Codes import Employee
 
 
 class Developer(Employee):
