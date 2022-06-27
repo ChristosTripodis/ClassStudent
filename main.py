@@ -11,3 +11,4 @@ print(dev_1.prog_lang)
 dev_1.apply_raise_dev()
 
 print('aaaa')
+print('bbbb')
