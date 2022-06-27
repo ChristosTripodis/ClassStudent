@@ -10,3 +10,6 @@ class Employee:
 
     def apply_raise(self, pay_amt):
         self.pay = self.pay + pay_amt
+
+
+print(__name__)
