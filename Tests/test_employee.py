@@ -1,3 +1,7 @@
+import sys
+
+sys.path.append("../")
+
 from Codes import Employee
 from Codes import Developer
 
