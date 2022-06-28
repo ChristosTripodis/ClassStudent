@@ -11,7 +11,7 @@ dev_1 = Developer('ch', 'trip', 2000, 'python')
 
 def test_apply_raise_dev():
     emp_1.apply_raise(1000)
-    assert emp_1.pay == 3000
+    assert emp_1.pay == 30000
 
 
 def test_apply_raise():
