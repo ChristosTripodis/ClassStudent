@@ -16,7 +16,7 @@ def test_apply_raise_dev():
 
 def test_apply_raise():
     dev_1.apply_raise_dev()
-    assert dev_1.pay == 12000
+    assert dev_1.pay == 120000
 
 def test_nothing():
     pass
